@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Case Study</string>
+
+    <string name="home_page">Anasayfa</string>
+    <string name="send">Gönder</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="repo_add_favorite_list">Repo favoriler listesine ekendi.</string>
+    <string name="repo_remove_favorite_list">Repo favoriler listesinden çıkartıldı.</string>
+
+    <string name="repo_stars">Stars:</string>
+    <string name="repo_open_issues">Open Issues:</string>
+
+    <string name="save">Saved</string>
+    <string name="unsave">Unsave</string>
+
+    //Error Info
+    <string name="no_internet">İnternet bağlantınızı kontrol ediniz.</string>
+    <string name="repo_not_found">Repo bulunamadı.</string>
+
+
+</resources>
+
